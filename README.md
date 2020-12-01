@@ -1,12 +1,17 @@
-## Hey, I'm Harsha! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey, I'm Harsha❕ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<br />
 
 I'm Harsha Teja N 🔱 , a web Developer and founder of a startup - ([Teacherr](https://teacherr.in)). I like spending most of my time coding and brainstorming on ideas.
+
+<br />
 
 ## I'm a startup and technology enthusiast!!
 
 - 🌱 I’m currently learning Full Stack.
 - 👯 I’m looking to collaborate with other coders, product enthusiasts and founders.
 
+<br />
 You can reach me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harsha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/harsha-teja-n/)
