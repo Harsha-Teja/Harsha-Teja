@@ -14,7 +14,7 @@ I'm Harsha Teja N 🔱 , a web Developer and founder of a startup - ([Teacherr](
 <br />
 You can reach me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harsha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/harsha-teja-n/)
+[![Linkedin Badge](https://img.shields.io/badge/-Harsha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-teja-n/)
 [![Mail Badge](https://img.shields.io/badge/-Harsha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nageshwaranharshateja@gmail.com)
 
 ### Languages:
@@ -26,12 +26,8 @@ You can reach me via:
 
 #### Profile Visits
 
-<br />
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Harsha-Teja.Harsha-Teja)
 
 #### My Blog
-
-<br />
 
 [![Medium Badge](https://img.shields.io/badge/-Harsha-0e76a8?style=flat&labelColor=12100E&logo=Medium&logoColor=white)](https://harshatejanageshwaran.medium.com/)
