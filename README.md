@@ -24,3 +24,9 @@ You can reach me via:
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Harsha-Teja.Harsha-Teja)
+
+#### My Blog
+
+<br />
+
+[![Medium Badge](https://img.shields.io/badge/-Harsha-0e76a8?style=flat&labelColor=12100E&logo=Medium&logoColor=white)](https://harshatejanageshwaran.medium.com/)
