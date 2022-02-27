@@ -1,14 +1,14 @@
-## Hey, I'm Harsha❕ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hey, I'm Harsha🔱❕ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <br />
 
-I'm Harsha Teja N 🔱 , a web Developer and founder of a startup - ([Teacherr](https://teacherr.in)). I like spending most of my time coding and brainstorming on ideas.
+A Developer and startup enthusiast. I have worked in a couple of startups (under Product and Tech roles) before launching my startup - ([Teacherr](https://teacherr.in) - Helping educators to find jobs and a community to share and grow) [Teacherr got [Acuqired](https://www.vccircle.com/sri-chaitanya-educational-institute-run-infinity-learn-acquires-community-platform-teacherr) by InfinityLearn]. Currently, I'm spending most of my time coding and brainstorming ideas. 
 
 <br />
 
 ## I'm a startup and technology enthusiast!!
 
-- 🌱 I’m currently learning Full Stack.
+- 🌱 I’m currently learning new technologies under Full Stack dev path.
 - 👯 I’m looking to collaborate with other coders, product enthusiasts and founders.
 
 <br />
