@@ -15,7 +15,7 @@ A Developer and startup enthusiast. I have worked in a couple of startups (under
 You can reach me via:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harsha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-teja-n/)
-[![Mail Badge](https://img.shields.io/badge/-Harsha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nageshwaranharshateja@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Harsha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:connect@nharshateja.me)
 
 ### Languages:
 
