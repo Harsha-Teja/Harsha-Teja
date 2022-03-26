@@ -2,7 +2,7 @@
 
 <br />
 
-A Developer and startup enthusiast. I have worked in a couple of startups (under Product and Tech roles) before launching my startup - ([Teacherr](https://teacherr.in) - Helping educators to find jobs and a community to share and grow) [Teacherr got [acquired](https://www.vccircle.com/sri-chaitanya-educational-institute-run-infinity-learn-acquires-community-platform-teacherr) by InfinityLearn]. Currently, I'm spending most of my time coding and brainstorming ideas. 
+A Developer and startup enthusiast. I have worked in a couple of startups (under Product and Tech roles) before launching my startup - ([Teacherr](https://teacherr.in) - Helping educators to find jobs and a community to share and grow) [Teacherr got [acquired](https://www.vccircle.com/sri-chaitanya-educational-institute-run-infinity-learn-acquires-community-platform-teacherr) by InfinityLearn]. Currently, I'm spending most of my time coding and brainstorming ideas. Visit [nharshateja.me](https://www.nharshateja.me/) to know more and scheldue a meet.
 
 <br />
 
